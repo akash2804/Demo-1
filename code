@@ -1,3 +1,4 @@
 pwd
 cat /etc/hosts
 echo "this is my first Demo" >> first.txt
+echo "this is my first Demo" >> /first.txt
